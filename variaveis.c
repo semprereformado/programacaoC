@@ -4,11 +4,9 @@ int main(){
     int idade;
     int quantidade;
     float altura;
+    double peso;
     char letra;
-    char nome[];
-    int _teste;
-    int teste_2;
-    
-
+    char nome[20];
+    return 0;
 
 }
